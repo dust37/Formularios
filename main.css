@@ -1,0 +1,16 @@
+
+table,th,td{
+    border: 2px solid  red;
+    border-collapse: collapse;
+
+}
+table{
+    width: 100%;
+}
+
+td,th{
+    border: 2px solid yellow
+}
+body{
+    background-blend-mode: aqua ;
+}
